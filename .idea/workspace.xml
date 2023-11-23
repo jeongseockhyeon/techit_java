@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e3c270-6121-4a8d-a25e-97ef2beed6ee" name="Changes" comment="[ADD]ReferenceType">
-      <change afterPath="$PROJECT_DIR$/src/Constants.java" afterDir="false" />
+    <list default="true" id="56e3c270-6121-4a8d-a25e-97ef2beed6ee" name="Changes" comment="[ADD]Constants">
+      <change afterPath="$PROJECT_DIR$/src/TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700736446831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[ADD]Constants">
+      <created>1700737019125</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700737019125</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -96,6 +104,7 @@
     <MESSAGE value="[ADD]Variables" />
     <MESSAGE value="[ADD]PrimitiveType" />
     <MESSAGE value="[ADD]ReferenceType" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD]ReferenceType" />
+    <MESSAGE value="[ADD]Constants" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD]Constants" />
   </component>
 </project>
