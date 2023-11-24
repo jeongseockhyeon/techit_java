@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e3c270-6121-4a8d-a25e-97ef2beed6ee" name="Changes" comment="[ADD]TypeCasting">
-      <change afterPath="$PROJECT_DIR$/src/StringExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="56e3c270-6121-4a8d-a25e-97ef2beed6ee" name="Changes" comment="[ADD]StringExample">
+      <change afterPath="$PROJECT_DIR$/src/ConsoleIO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700738299217</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[ADD]StringExample">
+      <created>1700824263573</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700824263573</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +119,7 @@
     <MESSAGE value="[ADD]ReferenceType" />
     <MESSAGE value="[ADD]Constants" />
     <MESSAGE value="[ADD]TypeCasting" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD]TypeCasting" />
+    <MESSAGE value="[ADD]StringExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD]StringExample" />
   </component>
 </project>
